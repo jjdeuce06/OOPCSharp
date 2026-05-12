@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jjger\\OneDrive\\Documents\\Personal Projects\\C#\\C# Code\\OOP\\Assignment1\\OOPAssignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5573F249-1961-4D2B-B123-CC75DB7D06FB}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jjger\\onedrive\\documents\\personal projects\\c#\\c# code\\oop\\assignment1\\oopassignment1\\consoleapp1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5573F249-1961-4D2B-B123-CC75DB7D06FB}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5573F249-1961-4D2B-B123-CC75DB7D06FB}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jjger\\onedrive\\documents\\personal projects\\c#\\c# code\\oop\\assignment1\\oopassignment1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5573F249-1961-4D2B-B123-CC75DB7D06FB}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\jjger\\OneDrive\\Documents\\Personal Projects\\C#\\C# Code\\OOP\\Assignment1\\OOPAssignment1\\ConsoleApp1\\Class1.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Class1.cs",
+              "ToolTip": "C:\\Users\\jjger\\OneDrive\\Documents\\Personal Projects\\C#\\C# Code\\OOP\\Assignment1\\OOPAssignment1\\ConsoleApp1\\Class1.cs",
+              "RelativeToolTip": "ConsoleApp1\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T16:24:47.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jjger\\OneDrive\\Documents\\Personal Projects\\C#\\C# Code\\OOP\\Assignment1\\OOPAssignment1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\jjger\\OneDrive\\Documents\\Personal Projects\\C#\\C# Code\\OOP\\Assignment1\\OOPAssignment1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T16:23:44.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
