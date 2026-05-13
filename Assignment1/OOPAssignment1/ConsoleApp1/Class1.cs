@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Globalization;
+using System.IO;
 
 namespace OOPAssignment1
 {
@@ -123,6 +124,12 @@ namespace OOPAssignment1
             Console.WriteLine($"Old meter reading: {oldmeter}");
             Console.WriteLine($"New meter reading: {newmeter}");
             Console.WriteLine($"Total bill: {GetBill()}");
+        }
+
+
+        ~Customer()
+        {
+            Console.WriteLine($"Destructor called for Customer: Name={fname} {lname}");
         }
 
     }
