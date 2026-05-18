@@ -1,0 +1,12 @@
+John
+Smith
+15.50
+40.0
+Jane
+Doe
+22.75
+35.5
+Mike
+Johnson
+10.25
+50.0

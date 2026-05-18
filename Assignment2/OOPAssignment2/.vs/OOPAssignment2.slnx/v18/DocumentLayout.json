@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jjger\\OneDrive\\Documents\\Personal Projects\\OOPCSharp\\Assignment2\\OOPAssignment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{044283EF-10D5-53AF-4DD2-017DEDE21762}|OOPAssignment2\\OOPAssignment2.csproj|c:\\users\\jjger\\onedrive\\documents\\personal projects\\oopcsharp\\assignment2\\oopassignment2\\oopassignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044283EF-10D5-53AF-4DD2-017DEDE21762}|OOPAssignment2\\OOPAssignment2.csproj|solutionrelative:oopassignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044283EF-10D5-53AF-4DD2-017DEDE21762}|OOPAssignment2\\OOPAssignment2.csproj|c:\\users\\jjger\\onedrive\\documents\\personal projects\\oopcsharp\\assignment2\\oopassignment2\\oopassignment2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044283EF-10D5-53AF-4DD2-017DEDE21762}|OOPAssignment2\\OOPAssignment2.csproj|solutionrelative:oopassignment2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\jjger\\OneDrive\\Documents\\Personal Projects\\OOPCSharp\\Assignment2\\OOPAssignment2\\OOPAssignment2\\Employee.cs",
+              "RelativeDocumentMoniker": "OOPAssignment2\\Employee.cs",
+              "ToolTip": "C:\\Users\\jjger\\OneDrive\\Documents\\Personal Projects\\OOPCSharp\\Assignment2\\OOPAssignment2\\OOPAssignment2\\Employee.cs",
+              "RelativeToolTip": "OOPAssignment2\\Employee.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAhwDAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T17:30:50.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jjger\\OneDrive\\Documents\\Personal Projects\\OOPCSharp\\Assignment2\\OOPAssignment2\\OOPAssignment2\\Program.cs",
+              "RelativeDocumentMoniker": "OOPAssignment2\\Program.cs",
+              "ToolTip": "C:\\Users\\jjger\\OneDrive\\Documents\\Personal Projects\\OOPCSharp\\Assignment2\\OOPAssignment2\\OOPAssignment2\\Program.cs",
+              "RelativeToolTip": "OOPAssignment2\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T14:42:19.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
