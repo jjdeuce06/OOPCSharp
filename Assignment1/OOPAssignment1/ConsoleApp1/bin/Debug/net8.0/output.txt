@@ -1,0 +1,7 @@
+Doe, John 140.00
+Smith, Margo 334.00
+Jones, Luke 1599.20
+Connor, Sarah 100.00
+Parker, Peter 0.00
+Banner, Bruce 1.20
+Kent, Clark 1999.80
