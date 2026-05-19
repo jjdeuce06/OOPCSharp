@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\jjger\\OneDrive\\Documents\\Personal Projects\\OOPCSharp\\Assignment2\\OOPAssignment2\\OOPAssignment2\\Employee.cs",
-              "RelativeDocumentMoniker": "OOPAssignment2\\Employee.cs",
-              "ToolTip": "C:\\Users\\jjger\\OneDrive\\Documents\\Personal Projects\\OOPCSharp\\Assignment2\\OOPAssignment2\\OOPAssignment2\\Employee.cs",
-              "RelativeToolTip": "OOPAssignment2\\Employee.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAhwDAAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T17:30:50.95Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -45,6 +32,18 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-14T14:42:19.038Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\jjger\\OneDrive\\Documents\\Personal Projects\\OOPCSharp\\Assignment2\\OOPAssignment2\\OOPAssignment2\\Employee.cs",
+              "RelativeDocumentMoniker": "OOPAssignment2\\Employee.cs",
+              "ToolTip": "C:\\Users\\jjger\\OneDrive\\Documents\\Personal Projects\\OOPCSharp\\Assignment2\\OOPAssignment2\\OOPAssignment2\\Employee.cs",
+              "RelativeToolTip": "OOPAssignment2\\Employee.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAhwDAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T17:30:50.95Z"
             }
           ]
         }
