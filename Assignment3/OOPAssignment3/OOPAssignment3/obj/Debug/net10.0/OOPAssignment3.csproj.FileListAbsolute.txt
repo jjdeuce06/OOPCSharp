@@ -1,0 +1,15 @@
+C:\Users\jjger\OneDrive\Documents\Personal Projects\OOPCSharp\Assignment3\OOPAssignment3\OOPAssignment3\obj\Debug\net10.0\OOPAssignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jjger\OneDrive\Documents\Personal Projects\OOPCSharp\Assignment3\OOPAssignment3\OOPAssignment3\obj\Debug\net10.0\OOPAssignment3.AssemblyInfoInputs.cache
+C:\Users\jjger\OneDrive\Documents\Personal Projects\OOPCSharp\Assignment3\OOPAssignment3\OOPAssignment3\obj\Debug\net10.0\OOPAssignment3.AssemblyInfo.cs
+C:\Users\jjger\OneDrive\Documents\Personal Projects\OOPCSharp\Assignment3\OOPAssignment3\OOPAssignment3\obj\Debug\net10.0\OOPAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\jjger\OneDrive\Documents\Personal Projects\OOPCSharp\Assignment3\OOPAssignment3\OOPAssignment3\obj\Debug\net10.0\OOPAssignment3.sourcelink.json
+C:\Users\jjger\OneDrive\Documents\Personal Projects\OOPCSharp\Assignment3\OOPAssignment3\OOPAssignment3\bin\Debug\net10.0\OOPAssignment3.exe
+C:\Users\jjger\OneDrive\Documents\Personal Projects\OOPCSharp\Assignment3\OOPAssignment3\OOPAssignment3\bin\Debug\net10.0\OOPAssignment3.deps.json
+C:\Users\jjger\OneDrive\Documents\Personal Projects\OOPCSharp\Assignment3\OOPAssignment3\OOPAssignment3\bin\Debug\net10.0\OOPAssignment3.runtimeconfig.json
+C:\Users\jjger\OneDrive\Documents\Personal Projects\OOPCSharp\Assignment3\OOPAssignment3\OOPAssignment3\bin\Debug\net10.0\OOPAssignment3.dll
+C:\Users\jjger\OneDrive\Documents\Personal Projects\OOPCSharp\Assignment3\OOPAssignment3\OOPAssignment3\bin\Debug\net10.0\OOPAssignment3.pdb
+C:\Users\jjger\OneDrive\Documents\Personal Projects\OOPCSharp\Assignment3\OOPAssignment3\OOPAssignment3\obj\Debug\net10.0\OOPAssignment3.dll
+C:\Users\jjger\OneDrive\Documents\Personal Projects\OOPCSharp\Assignment3\OOPAssignment3\OOPAssignment3\obj\Debug\net10.0\refint\OOPAssignment3.dll
+C:\Users\jjger\OneDrive\Documents\Personal Projects\OOPCSharp\Assignment3\OOPAssignment3\OOPAssignment3\obj\Debug\net10.0\OOPAssignment3.pdb
+C:\Users\jjger\OneDrive\Documents\Personal Projects\OOPCSharp\Assignment3\OOPAssignment3\OOPAssignment3\obj\Debug\net10.0\OOPAssignment3.genruntimeconfig.cache
+C:\Users\jjger\OneDrive\Documents\Personal Projects\OOPCSharp\Assignment3\OOPAssignment3\OOPAssignment3\obj\Debug\net10.0\ref\OOPAssignment3.dll

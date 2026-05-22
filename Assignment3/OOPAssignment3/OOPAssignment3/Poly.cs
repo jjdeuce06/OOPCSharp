@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 
 public class Polynomial
 {
@@ -97,4 +98,86 @@ public class Polynomial
     {
         Console.WriteLine("This polynomial contains " + c1 + " " + c2 + " " + c3 + " " + error + " " + error + " " + poly);
     }
+
+    public static Polynomial operator +(Polynomial p1, Polynomial p2)
+    {
+        Polynomial temp = new Polynomial();
+
+        temp.c1 = p1.c1 + p2.c1;
+        temp.c2 = p1.c2 + p2.c2;
+        temp.c3 = p1.c3 + p2.c3;
+
+        return temp;
+    }
+
+    public static Polynomial operator -(Polynomial p1, Polynomial p2)
+    {
+        Polynomial temp = new Polynomial();
+
+        temp.c1 = p1.c1 - p2.c1;
+        temp.c2 = p1.c2 - p2.c2;
+        temp.c3 = p1.c3 - p2.c3;
+        return temp;
+    }
+    public static string ToString(int c)
+    {
+        string s = "";
+        if (c != 0)
+        {
+            s = c.ToString();
+        }
+        return s;
+    }
+
+    public int GetNum(string p)
+    {
+        int temp = 0;
+        if (p.All(c => "0123456789.".Contains(c)))
+        {
+            temp = int.Parse(p);
+        }
+
+        return temp;
+    }
+
+    //Replacement for the original overloaded << operator in C++
+    public override string ToString()
+    {
+        return poly;
+    }
+
+    public void ReadPolynomial(string temp)
+    {
+        int num = temp.IndexOf("x^2");
+
+        if (num == -1 || temp.Contains(" "))
+        {
+            SetError(1);
+            return;
+        }
+
+        string s1 = temp.Substring(0, num);
+        SetC1(GetNum(s1));
+
+        string s2 = temp.Substring(num + 3);
+
+        int x = s2.IndexOf("x");
+
+        if (x == -1)
+        {
+            SetError(1);
+            return;
+        }
+
+        string s3 = s2.Substring(0, x);
+        SetC2(GetNum(s3));
+
+        string s4 = s2.Substring(x + 1);
+        SetC3(GetNum(s4));
+
+        SetPoly();
+        SetIsError(true);
+    }
+
+
 }
