@@ -131,13 +131,13 @@ public class Polynomial
 
     public int GetNum(string p)
     {
-        int temp = 0;
-        if (p.All(c => "0123456789.".Contains(c)))
+        if (int.TryParse(p, out int temp))
         {
-            temp = int.Parse(p);
+            return temp;
         }
 
-        return temp;
+        SetError(1);
+        return 0;
     }
 
     //Replacement for the original overloaded << operator in C++
@@ -158,6 +158,7 @@ public class Polynomial
 
         string s1 = temp.Substring(0, num);
         SetC1(GetNum(s1));
+        Console.WriteLine("C1: " + GetC1());
 
         string s2 = temp.Substring(num + 3);
 

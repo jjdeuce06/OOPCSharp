@@ -60,6 +60,7 @@ namespace OOPAssignment3
                             answer.SetC1(p1.GetC1() + p2.GetC1());
                             answer.SetC2(p1.GetC2() + p2.GetC2());
                             answer.SetC3(p1.GetC3() + p2.GetC3());
+                            answer.SetPoly();
                             Console.WriteLine("Answer: " + answer.ToString());
                         }
                         break;
