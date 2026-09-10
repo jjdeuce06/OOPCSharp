@@ -140,6 +140,21 @@ public class Polynomial
         return 0;
     }
 
+  
+    public int GetImpliedNum(string p)
+    {
+        if (p == "" || p == "+")
+        {
+            return 1;
+        }
+        if (p == "-")
+        {
+            return -1;
+        }
+
+        return GetNum(p);
+    }
+
     //Replacement for the original overloaded << operator in C++
     public override string ToString()
     {
@@ -157,7 +172,7 @@ public class Polynomial
         }
 
         string s1 = temp.Substring(0, num);
-        SetC1(GetNum(s1));
+        SetC1(GetImpliedNum(s1));
         Console.WriteLine("C1: " + GetC1());
 
         string s2 = temp.Substring(num + 3);
@@ -171,7 +186,7 @@ public class Polynomial
         }
 
         string s3 = s2.Substring(0, x);
-        SetC2(GetNum(s3));
+        SetC2(GetImpliedNum(s3));
 
         string s4 = s2.Substring(x + 1);
         SetC3(GetNum(s4));
